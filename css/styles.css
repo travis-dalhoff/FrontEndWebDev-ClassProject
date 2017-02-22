@@ -129,6 +129,17 @@ img {
   padding: 40px 20px;
 }
 
+#what {
+  text-align: right;
+}
+
+footer {
+  background-color: #262626;
+}
+
+footer p {
+  color: white;
+}
 
 /* ==========================================================================
    HEADER & HERO
