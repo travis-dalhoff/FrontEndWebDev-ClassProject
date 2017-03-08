@@ -47,3 +47,4 @@ function buildTable(section) {
 
    return wrapper;
 }
+
